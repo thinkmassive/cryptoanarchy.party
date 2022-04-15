@@ -1,5 +1,3 @@
-## cryptoanarchy.party
-
 ### DLC Oracle Events
 
 #### Taproot Adoption
