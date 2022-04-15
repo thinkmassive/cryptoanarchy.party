@@ -20,4 +20,8 @@ The numeric value represents **hundredths of a percent**, with a range from 0 to
 - block 739872 (estimated 2022 Jun 9)
 - block 741888 (estimated 2022 Jun 23)
 
+## External References
+
+For detailed data on taproot adoption, visit [txstats.com](https://txstats.com/dashboard/db/taproot-statistics?orgId=1)
+
 <script data-goatcounter="https://cryptoanarchyparty.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
