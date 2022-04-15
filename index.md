@@ -17,3 +17,5 @@ The numeric value represents **hundredths of a percent**, with a range from 0 to
 - block 737856 (estimated 2022 May 26)
 - block 739872 (estimated 2022 Jun 9)
 - block 741888 (estimated 2022 Jun 23)
+
+<script data-goatcounter="https://cryptoanarchyparty.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
