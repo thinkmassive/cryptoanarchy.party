@@ -2,13 +2,13 @@
 
 #### Taproot Adoption
 
-Taproot actived at block 709632. Events in this category attest to the fraction:
+Taproot actived at block 709632. Every 2016 blocks this oracle creates a new attestation:
 ```
 (number of transactions in past 2016 blocks with at least one P2TR input)
 -------------------------------------------------------------------------
          (total number of transactions in past 2016 blocks)
 ```
-The numeric value represents **hundredths of a percent**, with a range from 0 to 10000.
+The numeric value represents **hundredths of a percent**, with a range from 0 to 10000 (e.g., 4.2% is `420`)
 
 - [block 733824](https://oracle.suredbits.com/announcement/131b1ab7acf248003fbec0884e9c71378d0797595fc76623f5da5b606a455a09) (estimated 2022 Apr 28)
 - block 735840 (estimated 2022 May 12)
