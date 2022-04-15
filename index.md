@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+## cryptoanarchy.party
 
-You can use the [editor on GitHub](https://github.com/thinkmassive/cryptoanarchy.party/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### DLC Oracle Events
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+#### Taproot Adoption
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+Taproot actived at block 709632. Events in this category attest to the fraction:
 ```
+(number of transactions in past 2016 blocks with at least one P2TR input)
+-------------------------------------------------------------------------
+         (total number of transactions in past 2016 blocks)
+```
+The numeric value represents **hundredths of a percent**, with a range from 0 to 10000.
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/thinkmassive/cryptoanarchy.party/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- [block 733824](https://oracle.suredbits.com/announcement/131b1ab7acf248003fbec0884e9c71378d0797595fc76623f5da5b606a455a09) (estimated 2022 Apr 28)
+- block 735840 (estimated 2022 May 12)
+- block 737856 (estimated 2022 May 26)
+- block 739872 (estimated 2022 Jun 9)
+- block 741888 (estimated 2022 Jun 23)
