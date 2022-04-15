@@ -1,6 +1,10 @@
-### DLC Oracle Events
+## Getting Started with DLCs
 
-#### Taproot Adoption
+Refer to [Executing A DLC with Bitcoin-S](https://bitcoin-s.org/docs/wallet/dlc) for a complete walkthough.
+
+## DLC Oracle Events
+
+### Taproot Adoption
 
 Taproot actived at block 709632. Every 2016 blocks this oracle creates a new attestation:
 ```
